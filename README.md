@@ -1,4 +1,4 @@
-# ScreenRes
+# MonRes
 
 This commandline-tool (screenres.exe) can be used on a Windows-Computer to 
 
@@ -10,7 +10,7 @@ This tool is written in C++ and calls `EnumDisplaySettingsA` and
 `ChangeDisplaySettingsA` from the Win32-API.
 
 ScreenRes has been written to be a replacement for 
-[Qres](http://qres.sourceforge.net/). ScreenRes uses the same syntax for 
+[Qres](http://qres.sourceforge.net/). MonRes uses the same syntax for 
 command-line-parameters, and it produces the same output as Qres. 
 
 The main difference is, that there is no need to install ScreenRes, you can 
